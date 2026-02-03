@@ -1,44 +1,51 @@
-Graphical Authentication System
+Campus Freecycle System
 
-A simple and secure graphical authentication system built using Python and Flask.
-This project allows users to register and log in by selecting images instead of typing traditional passwords, enhancing usability and security. Designed mainly for learning and academic purposes.
+Campus Freecycle System is a web-based platform that allows students and staff to share unused items within a college campus. Instead of throwing away useful items, users can give them to others for free, promoting reuse, sustainability, and eco-friendly habits.
 
-Overview
 
-Traditional text-based passwords are often hard to remember and vulnerable to attacks.
-This system replaces text passwords with a graphical image-based selection, making authentication easier to recall and more resistant to common attacks.
+Features:
 
-How It Works
+User registration and login
 
-Registration: User picks a set of images (graphical password).
-Authentication: User must select the same images in the correct order to log in.
-Backend verifies pattern and grants access.
+Post items for giveaway
 
-Installation
+View available items
 
-1.Clone the repository: 
-git clone https://github.com/aashikohad/graphical-authentication-system.git
+Contact item owners
 
-2.Navigate to project folder: 
-cd graphical-authentication-system
+Simple and user-friendly interface
 
-3.Create and activate a Python virtual environment: 
-python3 -m venv venv
-source venv/bin/activate   # On Windows: venv\Scripts\activate
 
-4.Install dependencies: 
-pip install -r requirements.txt
+Technologies Used:
 
-Run the Project
+Frontend: HTML, JavaScript
 
-1.Set environment variables (example for Flask): 
-export FLASK_APP=app.py
-export FLASK_ENV=development
+Backend: Node.js (if applicable)
 
-2.Start the server: 
-flask run
+Database: (Add if used: MySQL / MongoDB / Local Storage)
 
-3.Open your browser and go to: 
-http://127.0.0.1:5000/
+Platform: Web Application
 
+
+Installation & Setup:
+
+1.Clone the repository:
+
+git clone https://github.com/your-username/campus-freecycle-system.git
+
+2.Open project folder:
+
+cd campus-freecycle-system
+
+3.Install dependencies:
+
+npm install
+
+4.Run the project:
+
+npm start
+
+5.Open in browser:
+
+http://localhost:3000
 
