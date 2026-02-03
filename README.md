@@ -1,9 +1,9 @@
-Campus Freecycle System
+# Campus Freecycle System
 
 Campus Freecycle System is a web-based platform that allows students and staff to share unused items within a college campus. Instead of throwing away useful items, users can give them to others for free, promoting reuse, sustainability, and eco-friendly habits.
 
 
-Features:
+## Features:
 
 User registration and login
 
@@ -16,7 +16,7 @@ Contact item owners
 Simple and user-friendly interface
 
 
-Technologies Used:
+## Technologies Used:
 
 Frontend: HTML, JavaScript
 
@@ -27,7 +27,7 @@ Database: (Add if used: MySQL / MongoDB / Local Storage)
 Platform: Web Application
 
 
-Installation & Setup:
+## Installation & Setup:
 
 1.Clone the repository:
 
@@ -48,4 +48,5 @@ npm start
 5.Open in browser:
 
 http://localhost:3000
+
 
