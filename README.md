@@ -5,15 +5,15 @@ Campus Freecycle System is a web-based platform that allows students and staff t
 
 ## Features:
 
-User registration and login
+1.User registration and login
 
-Post items for giveaway
+2.Post items for giveaway
 
-View available items
+3.View available items
 
-Contact item owners
+4.Contact item owners
 
-Simple and user-friendly interface
+5.Simple and user-friendly interface
 
 
 ## Technologies Used:
@@ -48,5 +48,6 @@ npm start
 5.Open in browser:
 
 http://localhost:3000
+
 
 
